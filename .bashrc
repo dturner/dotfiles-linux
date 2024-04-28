@@ -16,3 +16,5 @@
 # alias rm='rm -i'
 # alias cp='cp -i'
 # alias mv='mv -i'
+
+bind '"\e[A": history-search-backward'
