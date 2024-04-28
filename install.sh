@@ -1,2 +1,4 @@
 #!/bin/bash
-apt install fzf git
+apt install fzf
+
+ln -s ${HOME}/dotfiles-linux/.bashrc ${HOME}/.bashrc
